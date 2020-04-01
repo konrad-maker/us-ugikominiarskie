@@ -1,2 +1,0 @@
-# us-ugikominiarskie
-usługikominiarskie
