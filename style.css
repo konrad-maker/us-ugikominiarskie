@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Main */
+
+#title {
+  background-color: silver;
+  color: #11aa33;
+  text-align: right;
+}
+
+#border {
+  border: double 3px black;
+  letter-spacing: 1mm;
+}
+
+#blue {
+  color: blue;
+  width: 50%;
+  text-align: justify;
+  text-indent: 5em;
+  word-spacing: 1em;
+  line-height: 200%;
+}
+
+#monospace {
+  font-family: arial;
+  letter-spacing: 5px;
+  word-spacing: 15px;
+}
+
+#movedright {
+  text-indent: 10%;
+  text-decoration: overline;
+  font-weight: bold;
+}
+
+.html-margin {
+  margin-left: 5%;
+}
+
+.latin-lowercase {
+  list-style: lower-latin;
+  background-color: #ffffcc;
+}
+
+.square-filled {
+  list-style: square;
+}
